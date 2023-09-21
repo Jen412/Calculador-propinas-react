@@ -6,8 +6,6 @@ export default function useOrder() {
 
     const addItem = () => {
         console.log('agregando...')
-
-        return true
     }
 
     return {
